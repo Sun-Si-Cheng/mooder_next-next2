@@ -10,15 +10,7 @@ Mooder_next-next2是从Mooder_next二次开发而来的产物。
 
 ## How to run
 
-### 使用 all in one docker 镜像
-
-1. 基于默认文件修改配置文件
-
-    ```bash
-    cp .env.default_aio .env
-    ```
-
-2. `docker-compose -f docker-compose_aio.yml up -d`
+请参考 Django 官方部署文档进行部署。
 
 ## 站在巨人的肩膀上
 
@@ -26,26 +18,11 @@ Mooder_next-next2是从Mooder_next二次开发而来的产物。
 
 
 ## Change Log
-- 2025-07-03
-  - 修复后台搜索无法分页的问题
-- 2025-03-26
-  - 新增后台用户管理处用户最后一次登录时间显示
-- 2024-09-06
-  - 新增前台搜索功能
-- 2024-08-14
-  - 新增公告系统，升级方法，首先拉取代码，然后更新数据库：1、`python manage.py makemigrations`2、`python manage.py migrate`
-- 2024-07-04
-  - 新增pillow依赖，解决验证码无法生成问题（根据本地开发环境补全）
-- 2024-05-21
-  - 补充依赖版本号（根据本地开发环境补全）
-- 2024-04-17
-  - 添加后台评论管理功能
-- 2022-07-01
-  - 修复礼物页面报错
+
 
 ## 开源协议
 
-使用Mooder、Mooder_next请遵守LGPL协议。
+使用Mooder、Mooder_next、Mooder_next-next2请遵守LGPL协议。
 
 ## 案例
 
