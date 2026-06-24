@@ -1,12 +1,12 @@
 # Mooder_next团队贡献系统
 
-Mooder_next是从Mooder二次开发而来的产物。
+Mooder_next-next2是从Mooder_next二次开发而来的产物。
 
 关于Mooder的介绍移步(https://github.com/phith0n/mooder)
 
-## 为什么会有Mooder_next
+## 为什么会有Mooder_next-next2
 
-由于原作者未响应合并请求（大概已经放弃了这个历史项目），现开启新分支进行后续开发，新分支更名为：Mooder_next。
+由于原作者未响应合并请求（大概已经放弃了这个历史项目），现开启新分支进行后续开发，新分支更名为：Mooder_next-next2。
 
 ## How to run
 
